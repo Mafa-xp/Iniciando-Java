@@ -2,7 +2,7 @@ package P01Iniciante;
 
 import java.util.Scanner;
 
-public class Ex02 {
+public class Ex02OlaeumPrazer {
     static void main() {
         Scanner leia = new Scanner(System.in);
 
