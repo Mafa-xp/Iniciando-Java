@@ -2,7 +2,7 @@ package P01Iniciante;
 
 import java.util.Scanner;
 
-public class Ex081DistanciaMetros {
+public class Ex08DistanciaMetros {
     static void main() {
         Scanner leia = new Scanner(System.in);
 
